@@ -1,0 +1,16 @@
+D:\dev\repos\primeiros-passos-dotnet-csharp-dio\iniciando-dotnet\bin\Debug\net5.0\iniciando-dotnet.exe
+D:\dev\repos\primeiros-passos-dotnet-csharp-dio\iniciando-dotnet\bin\Debug\net5.0\iniciando-dotnet.deps.json
+D:\dev\repos\primeiros-passos-dotnet-csharp-dio\iniciando-dotnet\bin\Debug\net5.0\iniciando-dotnet.runtimeconfig.json
+D:\dev\repos\primeiros-passos-dotnet-csharp-dio\iniciando-dotnet\bin\Debug\net5.0\iniciando-dotnet.runtimeconfig.dev.json
+D:\dev\repos\primeiros-passos-dotnet-csharp-dio\iniciando-dotnet\bin\Debug\net5.0\iniciando-dotnet.dll
+D:\dev\repos\primeiros-passos-dotnet-csharp-dio\iniciando-dotnet\bin\Debug\net5.0\ref\iniciando-dotnet.dll
+D:\dev\repos\primeiros-passos-dotnet-csharp-dio\iniciando-dotnet\bin\Debug\net5.0\iniciando-dotnet.pdb
+D:\dev\repos\primeiros-passos-dotnet-csharp-dio\iniciando-dotnet\obj\Debug\net5.0\iniciando-dotnet.csprojAssemblyReference.cache
+D:\dev\repos\primeiros-passos-dotnet-csharp-dio\iniciando-dotnet\obj\Debug\net5.0\iniciando-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\repos\primeiros-passos-dotnet-csharp-dio\iniciando-dotnet\obj\Debug\net5.0\iniciando-dotnet.AssemblyInfoInputs.cache
+D:\dev\repos\primeiros-passos-dotnet-csharp-dio\iniciando-dotnet\obj\Debug\net5.0\iniciando-dotnet.AssemblyInfo.cs
+D:\dev\repos\primeiros-passos-dotnet-csharp-dio\iniciando-dotnet\obj\Debug\net5.0\iniciando-dotnet.csproj.CoreCompileInputs.cache
+D:\dev\repos\primeiros-passos-dotnet-csharp-dio\iniciando-dotnet\obj\Debug\net5.0\iniciando-dotnet.dll
+D:\dev\repos\primeiros-passos-dotnet-csharp-dio\iniciando-dotnet\obj\Debug\net5.0\ref\iniciando-dotnet.dll
+D:\dev\repos\primeiros-passos-dotnet-csharp-dio\iniciando-dotnet\obj\Debug\net5.0\iniciando-dotnet.pdb
+D:\dev\repos\primeiros-passos-dotnet-csharp-dio\iniciando-dotnet\obj\Debug\net5.0\iniciando-dotnet.genruntimeconfig.cache
