@@ -1,0 +1,16 @@
+D:\dev\repos\primeiros-passos-dotnet-csharp-dio\conhecendo-csharp\bin\Debug\net5.0\conhecendo-csharp.exe
+D:\dev\repos\primeiros-passos-dotnet-csharp-dio\conhecendo-csharp\bin\Debug\net5.0\conhecendo-csharp.deps.json
+D:\dev\repos\primeiros-passos-dotnet-csharp-dio\conhecendo-csharp\bin\Debug\net5.0\conhecendo-csharp.runtimeconfig.json
+D:\dev\repos\primeiros-passos-dotnet-csharp-dio\conhecendo-csharp\bin\Debug\net5.0\conhecendo-csharp.runtimeconfig.dev.json
+D:\dev\repos\primeiros-passos-dotnet-csharp-dio\conhecendo-csharp\bin\Debug\net5.0\conhecendo-csharp.dll
+D:\dev\repos\primeiros-passos-dotnet-csharp-dio\conhecendo-csharp\bin\Debug\net5.0\ref\conhecendo-csharp.dll
+D:\dev\repos\primeiros-passos-dotnet-csharp-dio\conhecendo-csharp\bin\Debug\net5.0\conhecendo-csharp.pdb
+D:\dev\repos\primeiros-passos-dotnet-csharp-dio\conhecendo-csharp\obj\Debug\net5.0\conhecendo-csharp.csprojAssemblyReference.cache
+D:\dev\repos\primeiros-passos-dotnet-csharp-dio\conhecendo-csharp\obj\Debug\net5.0\conhecendo-csharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\repos\primeiros-passos-dotnet-csharp-dio\conhecendo-csharp\obj\Debug\net5.0\conhecendo-csharp.AssemblyInfoInputs.cache
+D:\dev\repos\primeiros-passos-dotnet-csharp-dio\conhecendo-csharp\obj\Debug\net5.0\conhecendo-csharp.AssemblyInfo.cs
+D:\dev\repos\primeiros-passos-dotnet-csharp-dio\conhecendo-csharp\obj\Debug\net5.0\conhecendo-csharp.csproj.CoreCompileInputs.cache
+D:\dev\repos\primeiros-passos-dotnet-csharp-dio\conhecendo-csharp\obj\Debug\net5.0\conhecendo-csharp.dll
+D:\dev\repos\primeiros-passos-dotnet-csharp-dio\conhecendo-csharp\obj\Debug\net5.0\ref\conhecendo-csharp.dll
+D:\dev\repos\primeiros-passos-dotnet-csharp-dio\conhecendo-csharp\obj\Debug\net5.0\conhecendo-csharp.pdb
+D:\dev\repos\primeiros-passos-dotnet-csharp-dio\conhecendo-csharp\obj\Debug\net5.0\conhecendo-csharp.genruntimeconfig.cache
